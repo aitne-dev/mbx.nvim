@@ -1,6 +1,6 @@
 # MBX.nvim
 
-This plugin provides mbx's highlights and lsp.
+This plugin provides mbx's highlights.
 
 ## Installation
 

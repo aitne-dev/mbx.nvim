@@ -18,7 +18,6 @@ function M.setup(opts)
 
 	require("mbx.filetype").setup()
 	require("mbx.treesitter").setup()
-	require("mbx.lsp").setup(opts)
 end
 
 return M
